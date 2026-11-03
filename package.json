@@ -1,0 +1,10 @@
+{
+  "name": "masroof-baytna",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Arabic household income and expense tracker",
+  "scripts": {
+    "test": "node tests/core.test.cjs",
+    "check": "node --check app.js && node --check core.js"
+  }
+}
